@@ -3,7 +3,7 @@
 ## A SIMPLPE PROGRAMME TO RUN A GRAPHICAL STOPWATCH ON YOUR COMPUTER!
 -----------------------------------------------------------------------------------------------------------------------------------
 ## ** HOW-TO-RUN :**
-> OPEN TERMINAL
+> OPEN THE TERMINAL 
 
 > GO TO THE DIRECTORY WHERE THE SOURCE CODE IS LOCATED
 
